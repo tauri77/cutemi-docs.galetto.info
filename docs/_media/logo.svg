@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2e3" height="1e3" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<g transform="matrix(.817 0 0 .817 -102 -242)" fill="#d400aa">
+		<circle cx="1349" cy="743" r="353" fill="#d400aa"/>
+	</g>
+	<g transform="translate(-359 -384)" fill="#fff">
+		<path transform="translate(56.5 -22.1)" d="m1389 657a34.3 34.3 0 0 0-34.3 34.3 34.3 34.3 0 0 0 14 27.6c0.627 0.644 1.32 1.28 2.11 1.9l47.6 31.9c11.3 7.85 16.5 25.3 1.14 35.2-12.4 7.81-25.6 16.2-39.5 25.2-31.3 20.1-64.6 41.6-93.4 59.2-12.3 7.1-17.4-3.64-17.4-12.8-0.078-26.2-0.156-58.1-0.156-118-0.63-21.2-0.615-34.4-35.4-34.4-33.5 0-34.4 16.8-34.4 34.4 0 79.6 0.145 115 0.23 140 0.183 5.67-1.89 9.59-5.16 10.2-4.51 0.316-8.31 0.377-12.3 0.314-19.9-6e-4 -36.1 17.4-36.1 37.3-6e-4 19.9 16.1 38 36.1 38 7.75-0.0227 15.6 0.0186 22.6 0.0253 30.7 0 56.8 2.18 122-38s88.7-55.6 144-92.7c49.1-34.9 47.5-95.6 4.05-126-24.6-18.3-45.3-33.8-65.4-47.1-1.52-0.779-2.91-1.43-4.21-1.99a34.3 34.3 0 0 0-16.2-4.07z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+		<ellipse cx="1287" cy="602" rx="50.5" ry="50.3" stroke-width="0"/>
+	</g>
+	<text transform="translate(-457 756)" fill="#330029" font-family="'League Spartan'" font-size="244px" font-weight="bold" letter-spacing="0px" stroke-width="1px" word-spacing="0px" style="line-height:0%;shape-inside:url(#rect845);white-space:pre" xml:space="preserve"><tspan x="641.13867" y="164.93733"><tspan style="shape-inside:url(#rect845)">Cute MediaInfo</tspan></tspan></text>
+</svg>

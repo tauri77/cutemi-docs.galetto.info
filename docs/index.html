@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css"
+    />
+    <style>
+      :root {
+        /* Reduce the font size */
+        /* --base-font-size: 14px; */
+
+        /* Change the theme color hue (0-360) */
+        --cover-background-color: tansparent; 
+	--cover-heading-color: #594150;
+      }
+    </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'cute-mediainfo',
+      repo: 'https://github.com/tauri77/cute-mediainfo',
+      coverpage: true,
+      subMaxLevel: 3,
+      logo: './_media/logo.svg',
+      auto2top: true,
+      themeColor: '#d85baa'
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://unpkg.com/docsify-themeable"></script>
+
+</body>
+</html>
