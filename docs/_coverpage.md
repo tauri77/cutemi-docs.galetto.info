@@ -8,7 +8,7 @@
 
 [WordPress.org](https://wordpress.org/plugins/cute-mediainfo/)
 [GitHub](https://github.com/tauri77/cute-mediainfo)
-[Get Started](#main)
+[PRO Addon](https://galetto.info/product/cute-mediainfo-pro/)
 
 <!-- background image -->
 ![](_media/banner.png)
